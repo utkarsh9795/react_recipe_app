@@ -22,7 +22,7 @@ Welcome to the **React Recipe App**, a dynamic and user-friendly application des
 - **Styling:** CSS Modules / Styled Components
 - **State Management:** Context API / Redux
 - **Routing:** React Router
-- **API:** Integration with an external recipe API (e.g., Spoonacular, Edamam)
+- **API:** Integration with an external recipe API 
 - **Build Tool:** Vite / Create React App
 - **Version Control:** Git
 
